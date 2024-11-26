@@ -11,4 +11,4 @@ arXiv: https://arxiv.org/abs/2403.08277
 <img src="assets/image_example.jpg"/>
 
 Google Drive to download VIGFace(B).
-
+https://drive.google.com/file/d/1sV7CNOwVhoXnq6aw5vD0eeTL9TB3birC/view?usp=drive_link
