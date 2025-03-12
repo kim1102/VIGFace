@@ -49,8 +49,9 @@ FR benchmark results trained with various virtual face datasets. All results exc
 
 >## VIGFace download
 Google Drive to download VIGFace(B).
-https://drive.google.com/file/d/1sV7CNOwVhoXnq6aw5vD0eeTL9TB3birC/view?usp=drive_link
+<!-- (https://drive.google.com/file/d/1sV7CNOwVhoXnq6aw5vD0eeTL9TB3birC/view?usp=drive_link) -->
+
 
 >## Todo List
-- Other datasets will be released soon.
+- Datasets will be released soon.
 - Inference code will be updated.
