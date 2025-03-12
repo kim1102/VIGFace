@@ -35,19 +35,17 @@ arXiv: https://arxiv.org/abs/2403.08277
 |  |  |  |  |  |  |  |  |  |
 | VIGFace(B)     | CASIA            | 1\.2M (60K×20)                          | **99\.48**              | 97\.07     | 90\.15     | 93\.62     | 92\.88     | 94\.64     |
 | VIGFace(L)     | CASIA            | 6\.0M (120K×50)                         | 99\.33                  | **97\.31** | **91\.12** | 93\.82     | 92\.95     | **94\.91** |
-```
+
 FR benchmark results trained with various virtual face datasets. All results except for CASIA-WebFace and VIGFace are obtained from the original paper. Trained using IR-SE50 + AdaFace.
-```
+
 >## VIGFace example
 
-<img src="assets/image_example1.png"/>
-```
-Multiview facial images from real ID
-```
-<img src="assets/image_example2.png"/>
-```
-Multiview facial images from virtual ID
-```
+![sample1](assets/image_example1.png)
+*<small>Multiview facial images from real ID</small>*
+
+![sample1](assets/image_example2.png)
+*<small>Multiview facial images from virtual ID</small>*
+
 
 >## VIGFace download
 Google Drive to download VIGFace(B).
