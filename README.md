@@ -29,24 +29,25 @@ arXiv: https://arxiv.org/abs/2403.08277
 |  |  |  |  |  |  |  |  |  |
 | DCFace               | FFHQ+CASIA       | 1\.2M (20K×50+40K×5)       | 98\.58                  | 88\.61     | 85\.07     | 90\.97     | 92\.82     | 91\.21     |
 | CemiFace             | CASIA+WebFace4M  | 1\.2M (20K×50+40K×5)       | 99\.22                  | 92\.84     | 88\.86     | 92\.13     | 93\.03     | 93\.22     |
-| Arc2Face             | WebFace42M       | 1\.2M (20K*50+40K×5)       | 98\.92                  | 94\.58     | 86\.45     | 92\.45     | 93\.33     | 93\.14     |
+| Arc2Face             | WebFace42M       | 1\.2M (20K×50+40K×5)       | 98\.92                  | 94\.58     | 86\.45     | 92\.45     | 93\.33     | 93\.14     |
 | HSFace20K            | WebFace4M        | 1\.0M (20K×50)                         | 98\.87                  | 89\.87     | 86\.13     | 93\.85     | 93\.65     | 92\.47     |
 | HSFace300K           | WebFace4M        | 15M (300K×50)                          | 99\.30                  | 91\.54     | 87\.70     | **94\.45** | **94\.58** | 93\.52     |
 |  |  |  |  |  |  |  |  |  |
 | VIGFace(B)     | CASIA            | 1\.2M (60K×20)                          | **99\.48**              | 97\.07     | 90\.15     | 93\.62     | 92\.88     | 94\.64     |
 | VIGFace(L)     | CASIA            | 6\.0M (120K×50)                         | 99\.33                  | **97\.31** | **91\.12** | 93\.82     | 92\.95     | **94\.91** |
-
+```
 FR benchmark results trained with various virtual face datasets. All results except for CASIA-WebFace and VIGFace are obtained from the original paper. Trained using IR-SE50 + AdaFace.
-
+```
 >## VIGFace example
 
 <img src="assets/image_example1.png"/>
+```
 Multiview facial images from real ID
-
-
+```
 <img src="assets/image_example2.png"/>
+```
 Multiview facial images from virtual ID
-
+```
 
 >## VIGFace download
 Google Drive to download VIGFace(B).
