@@ -40,10 +40,10 @@ FR benchmark results trained with various virtual face datasets. All results exc
 
 >## VIGFace example
 
-<img src="assets/image_example1.jpg"/>
+<img src="assets/image_example1.png"/>
 Multiview facial images from real ID
 
-<img src="assets/image_example2.jpg"/>
+<img src="assets/image_example2.png"/>
 Multiview facial images from virtual ID
 
 >## VIGFace download
