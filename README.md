@@ -9,6 +9,15 @@ arXiv: https://arxiv.org/abs/2403.08277
 
 <img src="assets/fig_tsne.jpg"/>
 
+>## VIGFace example
+
+![sample1](assets/multiview_real.png)
+![sample1](assets/multiview_concat.gif)
+*<small>Multiview facial images from real ID. The cosine similarity between images and class centers is annotated.</small>*
+
+![sample1](assets/multiview_concat0.gif)
+*<small>Multiview facial images from virtual ID. The cosine similarity between images and class centers is annotated.</small>*
+
 >## FR Benchmarks
 >
 | Method               | Training Dataset | \# of Images (classes × variations) | LFW  | CFP-FP           | CPLFW           | AgeDB           |    CALFW        | Avg.            |
@@ -37,14 +46,6 @@ arXiv: https://arxiv.org/abs/2403.08277
 | VIGFace(L)     | CASIA            | 6\.0M (120K×50)                         | 99\.33                  | **97\.31** | **91\.12** | 93\.82     | 92\.95     | **94\.91** |
 
 FR benchmark results trained with various virtual face datasets. All results except for CASIA-WebFace and VIGFace are obtained from the original paper. Trained using IR-SE50 + AdaFace.
-
->## VIGFace example
-
-![sample1](assets/image_example1.png)
-*<small>Multiview facial images from real ID</small>*
-
-![sample1](assets/image_example2.png)
-*<small>Multiview facial images from virtual ID</small>*
 
 
 >## VIGFace download
