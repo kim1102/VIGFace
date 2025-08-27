@@ -6,6 +6,8 @@ Our proposed framework provides two significant benefits.
 Firstly, it shows clear separability between existing individuals and virtual face images, allowing one to create synthetic images with confidence and without concerns about privacy and portrait rights. Secondly, it ensures improved performance through data augmentation by incorporating real existing images. Extensive experiments demonstrate the superiority of our virtual face dataset and framework, outperforming the previous state-of-the-art on various face recognition benchmarks.
 
 arXiv: https://arxiv.org/abs/2403.08277
+This manuscript has been accepted to ICCV 2025.
+This repository was developed in collaboration with Dr. Mincheol Sagong, who is a co–first author.
 
 <img src="assets/fig_tsne.jpg"/>
 
