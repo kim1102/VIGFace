@@ -6,7 +6,8 @@ Our proposed framework provides two significant benefits.
 Firstly, it shows clear separability between existing individuals and virtual face images, allowing one to create synthetic images with confidence and without concerns about privacy and portrait rights. Secondly, it ensures improved performance through data augmentation by incorporating real existing images. Extensive experiments demonstrate the superiority of our virtual face dataset and framework, outperforming the previous state-of-the-art on various face recognition benchmarks.
 
 📢 Our manuscript has been accepted to **ICCV 2025**.  
-This repository was developed in collaboration with **Dr. Mincheol Sagong (co–first author)**.
+This repository was developed in collaboration with **Dr. Mincheol Sagong@Forty-lock (co–first author)**.
+
 
 arXiv: https://arxiv.org/abs/2403.08277
 
@@ -52,7 +53,9 @@ FR benchmark results trained with various virtual face datasets. All results exc
 
 
 >## VIGFace download
-Google Drive to download VIGFace(B).
+Please use this dataset for research purposes only, excluding any commercial use.
+To obtain the dataset, please contact the email below.
+**gpnam@kist.re.kr**
 <!-- (https://drive.google.com/file/d/1sV7CNOwVhoXnq6aw5vD0eeTL9TB3birC/view?usp=drive_link) -->
 
 
